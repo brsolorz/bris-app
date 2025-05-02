@@ -1,0 +1,1 @@
+import{r as o}from"./index-e4192eee.js";import{u as n}from"./useEventListener-b0d36238.js";function r(){const[t,e]=o.useState(!1);return o.useEffect(()=>{setTimeout(()=>{e(!0)},100)},[]),t}function c(){const t=r(),[e,s]=o.useState(!1);return n("scroll",()=>{e||s(t&&window.scrollY<=25)}),{animationClass:{"animate-start":t||e}}}export{c as u};
