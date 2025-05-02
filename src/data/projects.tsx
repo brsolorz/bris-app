@@ -69,7 +69,7 @@ const projects: ProjectProps[] = [
       'This personal website, learning Vite, Next.js, Tailwind CSS classes. And strengthening skills in React and TypeScript.',
     techStacks: ['React', 'TypeScript', 'Tailwind CSS', 'HTML/CSS', 'JavaScript'],
     category: 'Front-end development',
-    links: getLinks('brisolorzanosite', 'https://brisolorzano.com'),
+    links: getLinks('bris-app', 'https://brisolorzano.com'),
     type: 'Side Project'
   },
   {
