@@ -62,14 +62,14 @@ const projects: ProjectProps[] = [
     type: 'Work Experience',
   },
   {
-    slug: 'brisolorzanosite',
+    slug: 'canyoubrilieveit',
     featured: true,
     title: `Bri's Portfolio Site`,
     description:
       'This personal website, learning Vite, Next.js, Tailwind CSS classes. And strengthening skills in React and TypeScript.',
     techStacks: ['React', 'TypeScript', 'Tailwind CSS', 'HTML/CSS', 'JavaScript'],
     category: 'Front-end development',
-    links: getLinks('bris-app', 'https://brisolorzano.com'),
+    links: getLinks('bris-app', 'https://canyoubrilieveit.com'),
     type: 'Side Project'
   },
   {

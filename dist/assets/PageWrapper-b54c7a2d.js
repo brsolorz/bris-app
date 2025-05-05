@@ -1,1 +1,0 @@
-import{j as e}from"./index-e4192eee.js";import{c as o}from"./clsx-0839fdbe.js";function p({className:r,children:a}){return e.jsx("div",{className:o(r,"bg-overlay dark:bg-overlay-dark pt-18"),children:a})}export{p as default};

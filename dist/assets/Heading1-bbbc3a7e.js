@@ -1,0 +1,1 @@
+import{j as r}from"./index-40c7f233.js";import{c as a}from"./clsx-0839fdbe.js";function x({id:t,className:e,children:o}){return r.jsx("h1",{id:t,className:a(e,"py-8","text-[1.75rem] font-bold leading-8 md:text-4xl","font-extrabold tracking-tight"),children:o})}export{x as default};

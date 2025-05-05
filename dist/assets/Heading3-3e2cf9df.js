@@ -1,0 +1,1 @@
+import{j as e}from"./index-40c7f233.js";import{c as r}from"./clsx-0839fdbe.js";function i({id:t,className:s,children:o}){return e.jsx("h3",{id:t,className:r(s,"pb-4","font-semibold text-lg"),children:o})}export{i as default};

@@ -17,7 +17,7 @@ export default function Title({ size }: SizeProps): JSX.Element {
       className='title'
     >
       <p className={clsx('pb-0', textSize())}>
-        brisolorzano
+        canyoubrilieveit
       </p>
     </Link>
   )

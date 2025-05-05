@@ -37,7 +37,7 @@ export default function HomePage(): JSX.Element {
         />
         <link
           rel='canonical'
-          href='https://louisite.com'
+          href='https://canyoubrilieveit.com'
         />
       </Helmet>
       <Suspense fallback={<Preloader />}>
